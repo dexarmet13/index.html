@@ -1,0 +1,45 @@
+<!--Pattern HTML-->
+  <div id="pattern" class="pattern">
+    <!--Begin Pattern HTML-->
+		
+		</nav>
+	</div>
+	<!--End Pattern HTML-->
+	
+	<div class="container">	
+		<section class="pattern-description">
+			<h1>Мое Хобби</h1>
+      <p>Составил <a href="https://vk.com/dexarmet">этот человек</a>:</p>
+			<p>Из всего разнообразия увлечений, 
+   Мое хобби – это книги. Когда я начинаю читать, я отдаю всю себя и могу просидеть за чтением какой-нибудь интересной книги чуть ли не весь день, забыв о сне и еде.
+   Когда я читаю, я успокаиваюсь.</p>
+			<h3>Чем мне это помогает?</h3>
+			<ul>
+			<li><strong>Сосредоточиваться в своих мыслях</strong></li>
+			<li><strong>Познавать новое и неотъемлемое для жизни</strong></li>
+			<li><strong>Понимать суть высказыванного</strong></li>
+			</ul>
+			<h3>Примеры книг</h3>
+			<ul>
+			<li><strong><a href="https://ru.wikipedia.org/wiki/Волшебник_Изумрудного_города">Волшебник изумрудного города</a></strong>- Сюжет: Сильнейший ураган, наколдованный злой колдуньей Гингемой, унёс девочку Элли и её пёсика Тотошку из родного Канзаса в волшебную страну. Здесь девочка узнала, что вернуться домой ей сможет помочь только великий волшебник Гудвин, проживающий в Изумрудном городе. Кроме того, она должна исполнить желания трёх существ.</li>
+			<li><strong><a href="https://deti-online.com/skazki/sbornik-skazok/vinni-puh-i-vse-vse-vse/">Винни-Пух</a></strong>- Сюжет: У Кристофера Робина была любимая игрушка – плюшевый мишка Винни Пух, и отец мальчика часто рассказывал ему смешные истории о приключениях медвежонка.</li>
+			</ul>
+			<h3></h3>
+			<ul>
+			<li><a href="https://twitter.github.com">Twitter Bootstrap</a></li>
+			</ul>
+			<h3>Источники:</h3>
+			<ul>
+			<li><a href="http://jasonweaver.name/lab/flexiblenavigation/">FlexNav</a>
+			<li><a href="https://filamentgroup.com/lab/responsive_design_approach_for_navigation/">A Responsive Design Approach for Navigation, Part 1</a> by <a href="https://twitter.com/filamentgroup</a></li>
+			</ul>
+		</section>
+		
+    <a href="#menu" class="menu-link">Menu</a>
+		<nav id="menu" role="navigation">
+			<ul>
+				<li><a href="#">Другие хобби</a></li>
+				<li><a href="#">Книги</a></li>
+				<li><a href="#">Помощь в прочитанном</a></li>
+			</ul>
+	</div>
