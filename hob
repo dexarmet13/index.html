@@ -1,4 +1,4 @@
-<!--Pattern HTML-->
+<html>
   <div id="pattern" class="pattern">
     <!--Begin Pattern HTML-->
 		
@@ -43,3 +43,4 @@
 				<li><a href="#">Помощь в прочитанном</a></li>
 			</ul>
 	</div>
+</html>
